@@ -21,4 +21,4 @@ The objective of create the Social Network API is so as a social media startup, 
 Deployed Application: https://mnijjar24.github.io/social-network-api/ 
 Github Repo: https://github.com/mnijjar24/social-network-api
 Link to walkthrough video: https://www.youtube.com/watch?v=QNQ0LDaLL8M 
-Heroku:
+Heroku: https://social-networkapi.herokuapp.com/
