@@ -7,7 +7,11 @@
 
 ## Screenshots of the Social Network API
 
+![1](https://user-images.githubusercontent.com/87215165/149257387-5c14ce60-5647-4f1b-ae70-984a8f004e65.png)
 
+![2](https://user-images.githubusercontent.com/87215165/149257388-6251f103-deda-4369-85c9-1c3d24df4341.png)
+
+![3](https://user-images.githubusercontent.com/87215165/149257389-8c2745aa-c550-479e-9de8-1b0d37e31694.png)
 
 
 
